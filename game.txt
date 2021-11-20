@@ -1,0 +1,14 @@
+Draw Pile
+3 3 F 8 8 F 10 10 F Q 12 F K 13 F J 11 F 7 7 F J 11 F J 11 F 9 9 F 5 5 F 4 4 F A 1 F 9 9 F 3 3 F 10 10 F 8 8 F 5 5 F 6 6 F 3 3 F Q 12 F K 13 F 5 5 F 6 6 F 2 2 F 10 10 F 
+Stacks
+10
+6 6 F Q 12 F 4 4 T 
+2 2 F 7 7 F 5 5 T 
+K 13 F 6 6 F 8 8 T 
+9 9 F 4 4 F 7 7 T 
+A 1 F J 11 F 2 2 T 
+4 4 F A 1 F 10 10 T 
+9 9 F 7 7 T 
+2 2 F 3 3 T 
+8 8 F Q 12 T 
+A 1 F K 13 T 
