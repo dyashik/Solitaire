@@ -1,21 +1,6 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
-/** 
- * Author: Yashik Dhanaraj
- * Period: 5
- * Date: 12/12
- * Time Taken: 3hr
- * 
- * Summary: For me, the hardest part was converting the deck to a string
- * It wasn't really the actual conversion that threw me off but it was the
- * instructions given in the video. Because it said that there would be a token
- * instead of the full line but in the directions it said to use the full line. 
- * I was able to clear my doubt and did it. It was very similar to codingBat problems
- * so it was relatively straightforward. Then, I had to use the mac try clatch clause
- * for it to work and that took some time because it didn't allow me to use the dialog 
- * box twice in a row
- * 
- * **/
+
 public class SpiderSolitaire {
     /** Number of stacks on the board **/
     public final int NUM_STACKS = 10;
