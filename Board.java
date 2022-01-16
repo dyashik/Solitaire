@@ -5,17 +5,6 @@ import java.awt.EventQueue;
 import javax.swing.JFileChooser;
 import java.lang.reflect.InvocationTargetException;
 
-/**
- * Author: Yashik Dhanaraj Period: 5 Date: 12/6 Time Taken: 10hr
- * 
- * Summary: Took freaking forever. I had some bug when I was trying to split up
- * the numbers in half and was unable to translate it into code. I was able to
- * do the math right but the correct thing to do was split it up into the amount
- * that needs more and the amount that needs less. I went step by step and was
- * able to fix every single bug but what cost you may ask? 10 hours of my
- * precious life. I was able to finish the rest of the program
- * 
- **/
 public class Board{
     /* *** TO BE IMPLEMENTED IN ACTIVITY 4 *** */
     // Attributes
