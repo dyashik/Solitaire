@@ -22,7 +22,7 @@ public class Card implements Comparable<Card> {
         String[] symbols = { "A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K" };
         this.value = value;
         this.symbol = symbols[value - 1];
-        isFaceUp = true;
+        isFaceUp = false;
         this.suit = suit;
     }
     
