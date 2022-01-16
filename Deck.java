@@ -125,7 +125,7 @@ public class Deck implements Comparable<Deck> {
         String[] suits = { "Spades", "Hearts", "Clovers", "Diamonds"};
         for (int j = 0; j < numDecks; j++) {
             for (int i = 12; i >= 0; i--) {
-                deck.add(new Card(values[i], suits[0]));
+                deck.add(new Card(values[i], suits[j]));
             }
         }
     }
